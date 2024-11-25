@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("swappingVariables")]
+[assembly: AssemblyTitle("jaggedArray")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("swappingVariables")]
+[assembly: AssemblyProduct("jaggedArray")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0ca517e8-2f19-46f5-a6da-9f20711519ed")]
+[assembly: Guid("10edf41f-eb73-4bb0-b6a5-ef241f097e78")]
 
 // Version information for an assembly consists of the following four values:
 //
